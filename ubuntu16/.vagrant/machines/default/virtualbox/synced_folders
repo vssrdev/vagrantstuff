@@ -1,0 +1,1 @@
+{"virtualbox":{"/opt/newdata":{"guestpath":"/opt/newdata","hostpath":"D:/vagrant/testsyncdir","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/vagrant/ubuntu16","disabled":false,"__vagrantfile":true}}}
